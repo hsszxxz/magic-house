@@ -1,0 +1,4 @@
+repository "功能游戏@hsszxxz@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

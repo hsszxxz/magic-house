@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\skill\\skilldrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\skill\\skilldrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\starscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\starscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\starsnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\starsnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\type\\preview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\type\\preview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\sape\u0026seal\\cickattach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sape\u0026seal\\cickattach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\log in\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\log in\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|e:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\material\\drag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\material\\drag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\seal\\sealdrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\seal\\sealdrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\story\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\story\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\skill\\chargebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\skill\\chargebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\absorber layer\\addlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\absorber layer\\addlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\animationaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\animationaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\type\\produce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\type\\produce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\log in\\tishibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\log in\\tishibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\material\\dragmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\material\\dragmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\dragproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dragproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\log in\\shuoming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\log in\\shuoming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\log in\\closebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\log in\\closebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\idname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\idname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|E:\\unity project\\\u529F\u80FD\u6E38\u620F\\assets\\script\\log in\\namecollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F76E2-E629-1FFF-31D7-BC29345D2894}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\log in\\namecollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CickAttach.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Sape\u0026Seal\\CickAttach.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Sape\u0026Seal\\CickAttach.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Sape\u0026Seal\\CickAttach.cs",
+              "RelativeToolTip": "Assets\\Script\\Sape\u0026Seal\\CickAttach.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-15T09:22:02.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StarsCount.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\StarsCount.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\StarsCount.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\StarsCount.cs",
+              "RelativeToolTip": "Assets\\Script\\StarsCount.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAywHQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-15T09:22:06.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Log.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Log in\\Log.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Log in\\Log.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Log in\\Log.cs",
+              "RelativeToolTip": "Assets\\Script\\Log in\\Log.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-11T13:10:43.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Preview.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Type\\Preview.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Type\\Preview.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Type\\Preview.cs",
+              "RelativeToolTip": "Assets\\Script\\Type\\Preview.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-11T13:10:43.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SkillDrag.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Skill\\SkillDrag.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Skill\\SkillDrag.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Skill\\SkillDrag.cs",
+              "RelativeToolTip": "Assets\\Script\\Skill\\SkillDrag.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA7wBsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-16T13:44:07.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StarsNumber.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\StarsNumber.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\StarsNumber.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\StarsNumber.cs",
+              "RelativeToolTip": "Assets\\Script\\StarsNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T07:49:37.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Produce.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Type\\Produce.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Type\\Produce.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Type\\Produce.cs",
+              "RelativeToolTip": "Assets\\Script\\Type\\Produce.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBQAAAAIAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPBSURBVEhL7VRNbBNXEJ798a6x4rUwsRNCUqTaB2REEUgVFVWlVVUJ9cKB4q24VeoBIQ5FcEAQVWoOvaWuOCSHgoTKCW1yqFREG4sEIyVyiQKoCikQ1mkcWybOgmNvnJ\u002B1vfs6s4QcUCu11yqftfu8u9/MvDff9x5s4/8PbnOE2dlZuSbXuqfyU/Lo81EwFg2oN\u002BogSRLEw3EazeEvh03ilqxSZKGyELn8y2XA0bydvG2FoqHua1PX5OvZ6zYoUDS\u002BMmzi8nQjUHKRiSnGmA4MdBBB50RO5zhO53le93G\u002B5CYV/K4/iVxdcAUdWpCk5AIIKdEVdfycYhXW85q5uYLpwrT6wnpx8v7Cfc2sm5G6XYeQPwSSKIHIi96FzL7TH50eoORpI518WHio3jHuwPLacmZPaM\u002BM\u002Bq6qPTWfRh4UH5g8xw8hfyj3dS6DkQAv6y/Vylrl7Pif49Amt8HBzoP2oe5DxWhb1OaQWbSKsNHcMANuQHF451ipVto/kZ\u002BAFXsFXObuL1vlnru5u8pqcxWwAwrj2DGM\u002BwNTZwQqEP0kqs5X5lWaOc4EThw4kQ9IgfOtVusHbNdQtVEd4nhu8vDew2Z9o/5be6BdSXQk3p8pz1CRH0\u002B9d2rwzIdnPnBcJ/xk6Ukek5/nBG6kMlZZ81bwuPQYJJ8EXUoXBHyBTGewcxhnklUUxRP1DT7HH8J4VXtlOswBWZABNTLPfXzOwInYE/MT9Gzj/5zRa3ixnsjUguX1Zdit7Ib15vq9YDA48HZyAjmtXC3HCtVCe7FaBNvBXIy1X8lciT0zn8nYZnqWkRqLfxuPUIxXoOW2wHVdQLe8FvQf8MYtY8aY1n\u002BvH9AYgG3Rbv5\u002BM3Xx54s96dk05elmwL4jd1GMVwDF9MQtr5RhrjJHr/4WKLDFAz/SFeqaObr3qBeDjpnpCHaMqDHViu2KUYss1CDNeEYio9sR\u002B6L7gHpKy6YlX/rpUuLIO0cg3BaGRqMB\u002BXqeNp2JGlHbBs2qyeHmiz4qPYLaRm341he3fsXiPVezV\u002BP4Loez/z7XlzO2ChxPHIel1SW4MXWDWqSh9VRqF8/wEvByeZBAGqTkxJd5WXccJ0Pf0V1LqJdlWuYFcEHG5DYX5grEI3gbLfs8qy6uLJ7M5rNadb0aaTpN2BnYCX7RDz7B5204dEZf76e933hR/wFbZ9Ho9GiMCSw1uTAZH58bByyIORmEdoQgEU2QfQf7P\u002Bsf2KT/a2ydRbZsF9FNF3DZGjkDNaFWaVyL03Dpmm\u002BHj86ZbWzjbQD8BfQkxxdaIgF3AAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-11-12T11:24:57.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Transport.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Transport.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Transport.cs",
+              "RelativeToolTip": "Assets\\Script\\Transport.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAywEQAAAA8AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPBSURBVEhL7VRNbBNXEJ798a6x4rUwsRNCUqTaB2REEUgVFVWlVVUJ9cKB4q24VeoBIQ5FcEAQVWoOvaWuOCSHgoTKCW1yqFREG4sEIyVyiQKoCikQ1mkcWybOgmNvnJ\u002B1vfs6s4QcUCu11yqftfu8u9/MvDff9x5s4/8PbnOE2dlZuSbXuqfyU/Lo81EwFg2oN\u002BogSRLEw3EazeEvh03ilqxSZKGyELn8y2XA0bydvG2FoqHua1PX5OvZ6zYoUDS\u002BMmzi8nQjUHKRiSnGmA4MdBBB50RO5zhO53le93G\u002B5CYV/K4/iVxdcAUdWpCk5AIIKdEVdfycYhXW85q5uYLpwrT6wnpx8v7Cfc2sm5G6XYeQPwSSKIHIi96FzL7TH50eoORpI518WHio3jHuwPLacmZPaM\u002BM\u002Bq6qPTWfRh4UH5g8xw8hfyj3dS6DkQAv6y/Vylrl7Pif49Amt8HBzoP2oe5DxWhb1OaQWbSKsNHcMANuQHF451ipVto/kZ\u002BAFXsFXObuL1vlnru5u8pqcxWwAwrj2DGM\u002BwNTZwQqEP0kqs5X5lWaOc4EThw4kQ9IgfOtVusHbNdQtVEd4nhu8vDew2Z9o/5be6BdSXQk3p8pz1CRH0\u002B9d2rwzIdnPnBcJ/xk6Ukek5/nBG6kMlZZ81bwuPQYJJ8EXUoXBHyBTGewcxhnklUUxRP1DT7HH8J4VXtlOswBWZABNTLPfXzOwInYE/MT9Gzj/5zRa3ixnsjUguX1Zdit7Ib15vq9YDA48HZyAjmtXC3HCtVCe7FaBNvBXIy1X8lciT0zn8nYZnqWkRqLfxuPUIxXoOW2wHVdQLe8FvQf8MYtY8aY1n\u002BvH9AYgG3Rbv5\u002BM3Xx54s96dk05elmwL4jd1GMVwDF9MQtr5RhrjJHr/4WKLDFAz/SFeqaObr3qBeDjpnpCHaMqDHViu2KUYss1CDNeEYio9sR\u002B6L7gHpKy6YlX/rpUuLIO0cg3BaGRqMB\u002BXqeNp2JGlHbBs2qyeHmiz4qPYLaRm341he3fsXiPVezV\u002BP4Loez/z7XlzO2ChxPHIel1SW4MXWDWqSh9VRqF8/wEvByeZBAGqTkxJd5WXccJ0Pf0V1LqJdlWuYFcEHG5DYX5grEI3gbLfs8qy6uLJ7M5rNadb0aaTpN2BnYCX7RDz7B5204dEZf76e933hR/wFbZ9Ho9GiMCSw1uTAZH58bByyIORmEdoQgEU2QfQf7P\u002Bsf2KT/a2ydRbZsF9FNF3DZGjkDNaFWaVyL03Dpmm\u002BHj86ZbWzjbQD8BfQkxxdaIgF3AAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-11-12T12:22:03.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TiShiButton.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Log in\\TiShiButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Log in\\TiShiButton.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Log in\\TiShiButton.cs",
+              "RelativeToolTip": "Assets\\Script\\Log in\\TiShiButton.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwAMAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPBSURBVEhL7VRNbBNXEJ798a6x4rUwsRNCUqTaB2REEUgVFVWlVVUJ9cKB4q24VeoBIQ5FcEAQVWoOvaWuOCSHgoTKCW1yqFREG4sEIyVyiQKoCikQ1mkcWybOgmNvnJ\u002B1vfs6s4QcUCu11yqftfu8u9/MvDff9x5s4/8PbnOE2dlZuSbXuqfyU/Lo81EwFg2oN\u002BogSRLEw3EazeEvh03ilqxSZKGyELn8y2XA0bydvG2FoqHua1PX5OvZ6zYoUDS\u002BMmzi8nQjUHKRiSnGmA4MdBBB50RO5zhO53le93G\u002B5CYV/K4/iVxdcAUdWpCk5AIIKdEVdfycYhXW85q5uYLpwrT6wnpx8v7Cfc2sm5G6XYeQPwSSKIHIi96FzL7TH50eoORpI518WHio3jHuwPLacmZPaM\u002BM\u002Bq6qPTWfRh4UH5g8xw8hfyj3dS6DkQAv6y/Vylrl7Pif49Amt8HBzoP2oe5DxWhb1OaQWbSKsNHcMANuQHF451ipVto/kZ\u002BAFXsFXObuL1vlnru5u8pqcxWwAwrj2DGM\u002BwNTZwQqEP0kqs5X5lWaOc4EThw4kQ9IgfOtVusHbNdQtVEd4nhu8vDew2Z9o/5be6BdSXQk3p8pz1CRH0\u002B9d2rwzIdnPnBcJ/xk6Ukek5/nBG6kMlZZ81bwuPQYJJ8EXUoXBHyBTGewcxhnklUUxRP1DT7HH8J4VXtlOswBWZABNTLPfXzOwInYE/MT9Gzj/5zRa3ixnsjUguX1Zdit7Ib15vq9YDA48HZyAjmtXC3HCtVCe7FaBNvBXIy1X8lciT0zn8nYZnqWkRqLfxuPUIxXoOW2wHVdQLe8FvQf8MYtY8aY1n\u002BvH9AYgG3Rbv5\u002BM3Xx54s96dk05elmwL4jd1GMVwDF9MQtr5RhrjJHr/4WKLDFAz/SFeqaObr3qBeDjpnpCHaMqDHViu2KUYss1CDNeEYio9sR\u002B6L7gHpKy6YlX/rpUuLIO0cg3BaGRqMB\u002BXqeNp2JGlHbBs2qyeHmiz4qPYLaRm341he3fsXiPVezV\u002BP4Loez/z7XlzO2ChxPHIel1SW4MXWDWqSh9VRqF8/wEvByeZBAGqTkxJd5WXccJ0Pf0V1LqJdlWuYFcEHG5DYX5grEI3gbLfs8qy6uLJ7M5rNadb0aaTpN2BnYCX7RDz7B5204dEZf76e933hR/wFbZ9Ho9GiMCSw1uTAZH58bByyIORmEdoQgEU2QfQf7P\u002Bsf2KT/a2ydRbZsF9FNF3DZGjkDNaFWaVyL03Dpmm\u002BHj86ZbWzjbQD8BfQkxxdaIgF3AAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-11-17T02:41:05.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SealDrag.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Seal\\SealDrag.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Seal\\SealDrag.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Seal\\SealDrag.cs",
+              "RelativeToolTip": "Assets\\Script\\Seal\\SealDrag.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwCgAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-17T06:44:07.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Drag.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Material\\Drag.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Material\\Drag.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Material\\Drag.cs",
+              "RelativeToolTip": "Assets\\Script\\Material\\Drag.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-13T05:32:38.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddLayer.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Absorber Layer\\AddLayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Absorber Layer\\AddLayer.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Absorber Layer\\AddLayer.cs",
+              "RelativeToolTip": "Assets\\Script\\Absorber Layer\\AddLayer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwBkAAAAcAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPBSURBVEhL7VRNbBNXEJ798a6x4rUwsRNCUqTaB2REEUgVFVWlVVUJ9cKB4q24VeoBIQ5FcEAQVWoOvaWuOCSHgoTKCW1yqFREG4sEIyVyiQKoCikQ1mkcWybOgmNvnJ\u002B1vfs6s4QcUCu11yqftfu8u9/MvDff9x5s4/8PbnOE2dlZuSbXuqfyU/Lo81EwFg2oN\u002BogSRLEw3EazeEvh03ilqxSZKGyELn8y2XA0bydvG2FoqHua1PX5OvZ6zYoUDS\u002BMmzi8nQjUHKRiSnGmA4MdBBB50RO5zhO53le93G\u002B5CYV/K4/iVxdcAUdWpCk5AIIKdEVdfycYhXW85q5uYLpwrT6wnpx8v7Cfc2sm5G6XYeQPwSSKIHIi96FzL7TH50eoORpI518WHio3jHuwPLacmZPaM\u002BM\u002Bq6qPTWfRh4UH5g8xw8hfyj3dS6DkQAv6y/Vylrl7Pif49Amt8HBzoP2oe5DxWhb1OaQWbSKsNHcMANuQHF451ipVto/kZ\u002BAFXsFXObuL1vlnru5u8pqcxWwAwrj2DGM\u002BwNTZwQqEP0kqs5X5lWaOc4EThw4kQ9IgfOtVusHbNdQtVEd4nhu8vDew2Z9o/5be6BdSXQk3p8pz1CRH0\u002B9d2rwzIdnPnBcJ/xk6Ukek5/nBG6kMlZZ81bwuPQYJJ8EXUoXBHyBTGewcxhnklUUxRP1DT7HH8J4VXtlOswBWZABNTLPfXzOwInYE/MT9Gzj/5zRa3ixnsjUguX1Zdit7Ib15vq9YDA48HZyAjmtXC3HCtVCe7FaBNvBXIy1X8lciT0zn8nYZnqWkRqLfxuPUIxXoOW2wHVdQLe8FvQf8MYtY8aY1n\u002BvH9AYgG3Rbv5\u002BM3Xx54s96dk05elmwL4jd1GMVwDF9MQtr5RhrjJHr/4WKLDFAz/SFeqaObr3qBeDjpnpCHaMqDHViu2KUYss1CDNeEYio9sR\u002B6L7gHpKy6YlX/rpUuLIO0cg3BaGRqMB\u002BXqeNp2JGlHbBs2qyeHmiz4qPYLaRm341he3fsXiPVezV\u002BP4Loez/z7XlzO2ChxPHIel1SW4MXWDWqSh9VRqF8/wEvByeZBAGqTkxJd5WXccJ0Pf0V1LqJdlWuYFcEHG5DYX5grEI3gbLfs8qy6uLJ7M5rNadb0aaTpN2BnYCX7RDz7B5204dEZf76e933hR/wFbZ9Ho9GiMCSw1uTAZH58bByyIORmEdoQgEU2QfQf7P\u002Bsf2KT/a2ydRbZsF9FNF3DZGjkDNaFWaVyL03Dpmm\u002BHj86ZbWzjbQD8BfQkxxdaIgF3AAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-11-14T08:07:07.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Character.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Story\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Story\\Character.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Story\\Character.cs",
+              "RelativeToolTip": "Assets\\Script\\Story\\Character.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAKBhwBMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-15T09:24:28.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnimationAction.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\AnimationAction.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AnimationAction.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\AnimationAction.cs",
+              "RelativeToolTip": "Assets\\Script\\AnimationAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPBSURBVEhL7VRNbBNXEJ798a6x4rUwsRNCUqTaB2REEUgVFVWlVVUJ9cKB4q24VeoBIQ5FcEAQVWoOvaWuOCSHgoTKCW1yqFREG4sEIyVyiQKoCikQ1mkcWybOgmNvnJ\u002B1vfs6s4QcUCu11yqftfu8u9/MvDff9x5s4/8PbnOE2dlZuSbXuqfyU/Lo81EwFg2oN\u002BogSRLEw3EazeEvh03ilqxSZKGyELn8y2XA0bydvG2FoqHua1PX5OvZ6zYoUDS\u002BMmzi8nQjUHKRiSnGmA4MdBBB50RO5zhO53le93G\u002B5CYV/K4/iVxdcAUdWpCk5AIIKdEVdfycYhXW85q5uYLpwrT6wnpx8v7Cfc2sm5G6XYeQPwSSKIHIi96FzL7TH50eoORpI518WHio3jHuwPLacmZPaM\u002BM\u002Bq6qPTWfRh4UH5g8xw8hfyj3dS6DkQAv6y/Vylrl7Pif49Amt8HBzoP2oe5DxWhb1OaQWbSKsNHcMANuQHF451ipVto/kZ\u002BAFXsFXObuL1vlnru5u8pqcxWwAwrj2DGM\u002BwNTZwQqEP0kqs5X5lWaOc4EThw4kQ9IgfOtVusHbNdQtVEd4nhu8vDew2Z9o/5be6BdSXQk3p8pz1CRH0\u002B9d2rwzIdnPnBcJ/xk6Ukek5/nBG6kMlZZ81bwuPQYJJ8EXUoXBHyBTGewcxhnklUUxRP1DT7HH8J4VXtlOswBWZABNTLPfXzOwInYE/MT9Gzj/5zRa3ixnsjUguX1Zdit7Ib15vq9YDA48HZyAjmtXC3HCtVCe7FaBNvBXIy1X8lciT0zn8nYZnqWkRqLfxuPUIxXoOW2wHVdQLe8FvQf8MYtY8aY1n\u002BvH9AYgG3Rbv5\u002BM3Xx54s96dk05elmwL4jd1GMVwDF9MQtr5RhrjJHr/4WKLDFAz/SFeqaObr3qBeDjpnpCHaMqDHViu2KUYss1CDNeEYio9sR\u002B6L7gHpKy6YlX/rpUuLIO0cg3BaGRqMB\u002BXqeNp2JGlHbBs2qyeHmiz4qPYLaRm341he3fsXiPVezV\u002BP4Loez/z7XlzO2ChxPHIel1SW4MXWDWqSh9VRqF8/wEvByeZBAGqTkxJd5WXccJ0Pf0V1LqJdlWuYFcEHG5DYX5grEI3gbLfs8qy6uLJ7M5rNadb0aaTpN2BnYCX7RDz7B5204dEZf76e933hR/wFbZ9Ho9GiMCSw1uTAZH58bByyIORmEdoQgEU2QfQf7P\u002Bsf2KT/a2ydRbZsF9FNF3DZGjkDNaFWaVyL03Dpmm\u002BHj86ZbWzjbQD8BfQkxxdaIgF3AAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-11-16T13:44:12.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChargeButton.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Skill\\ChargeButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Skill\\ChargeButton.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Skill\\ChargeButton.cs",
+              "RelativeToolTip": "Assets\\Script\\Skill\\ChargeButton.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAywBUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-16T13:44:07.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DragMaterial.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Material\\DragMaterial.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Material\\DragMaterial.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Material\\DragMaterial.cs",
+              "RelativeToolTip": "Assets\\Script\\Material\\DragMaterial.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBAAAAA4AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPBSURBVEhL7VRNbBNXEJ798a6x4rUwsRNCUqTaB2REEUgVFVWlVVUJ9cKB4q24VeoBIQ5FcEAQVWoOvaWuOCSHgoTKCW1yqFREG4sEIyVyiQKoCikQ1mkcWybOgmNvnJ\u002B1vfs6s4QcUCu11yqftfu8u9/MvDff9x5s4/8PbnOE2dlZuSbXuqfyU/Lo81EwFg2oN\u002BogSRLEw3EazeEvh03ilqxSZKGyELn8y2XA0bydvG2FoqHua1PX5OvZ6zYoUDS\u002BMmzi8nQjUHKRiSnGmA4MdBBB50RO5zhO53le93G\u002B5CYV/K4/iVxdcAUdWpCk5AIIKdEVdfycYhXW85q5uYLpwrT6wnpx8v7Cfc2sm5G6XYeQPwSSKIHIi96FzL7TH50eoORpI518WHio3jHuwPLacmZPaM\u002BM\u002Bq6qPTWfRh4UH5g8xw8hfyj3dS6DkQAv6y/Vylrl7Pif49Amt8HBzoP2oe5DxWhb1OaQWbSKsNHcMANuQHF451ipVto/kZ\u002BAFXsFXObuL1vlnru5u8pqcxWwAwrj2DGM\u002BwNTZwQqEP0kqs5X5lWaOc4EThw4kQ9IgfOtVusHbNdQtVEd4nhu8vDew2Z9o/5be6BdSXQk3p8pz1CRH0\u002B9d2rwzIdnPnBcJ/xk6Ukek5/nBG6kMlZZ81bwuPQYJJ8EXUoXBHyBTGewcxhnklUUxRP1DT7HH8J4VXtlOswBWZABNTLPfXzOwInYE/MT9Gzj/5zRa3ixnsjUguX1Zdit7Ib15vq9YDA48HZyAjmtXC3HCtVCe7FaBNvBXIy1X8lciT0zn8nYZnqWkRqLfxuPUIxXoOW2wHVdQLe8FvQf8MYtY8aY1n\u002BvH9AYgG3Rbv5\u002BM3Xx54s96dk05elmwL4jd1GMVwDF9MQtr5RhrjJHr/4WKLDFAz/SFeqaObr3qBeDjpnpCHaMqDHViu2KUYss1CDNeEYio9sR\u002B6L7gHpKy6YlX/rpUuLIO0cg3BaGRqMB\u002BXqeNp2JGlHbBs2qyeHmiz4qPYLaRm341he3fsXiPVezV\u002BP4Loez/z7XlzO2ChxPHIel1SW4MXWDWqSh9VRqF8/wEvByeZBAGqTkxJd5WXccJ0Pf0V1LqJdlWuYFcEHG5DYX5grEI3gbLfs8qy6uLJ7M5rNadb0aaTpN2BnYCX7RDz7B5204dEZf76e933hR/wFbZ9Ho9GiMCSw1uTAZH58bByyIORmEdoQgEU2QfQf7P\u002Bsf2KT/a2ydRbZsF9FNF3DZGjkDNaFWaVyL03Dpmm\u002BHj86ZbWzjbQD8BfQkxxdaIgF3AAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-11-17T01:22:44.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DragProduct.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\DragProduct.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DragProduct.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\DragProduct.cs",
+              "RelativeToolTip": "Assets\\Script\\DragProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAwAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPBSURBVEhL7VRNbBNXEJ798a6x4rUwsRNCUqTaB2REEUgVFVWlVVUJ9cKB4q24VeoBIQ5FcEAQVWoOvaWuOCSHgoTKCW1yqFREG4sEIyVyiQKoCikQ1mkcWybOgmNvnJ\u002B1vfs6s4QcUCu11yqftfu8u9/MvDff9x5s4/8PbnOE2dlZuSbXuqfyU/Lo81EwFg2oN\u002BogSRLEw3EazeEvh03ilqxSZKGyELn8y2XA0bydvG2FoqHua1PX5OvZ6zYoUDS\u002BMmzi8nQjUHKRiSnGmA4MdBBB50RO5zhO53le93G\u002B5CYV/K4/iVxdcAUdWpCk5AIIKdEVdfycYhXW85q5uYLpwrT6wnpx8v7Cfc2sm5G6XYeQPwSSKIHIi96FzL7TH50eoORpI518WHio3jHuwPLacmZPaM\u002BM\u002Bq6qPTWfRh4UH5g8xw8hfyj3dS6DkQAv6y/Vylrl7Pif49Amt8HBzoP2oe5DxWhb1OaQWbSKsNHcMANuQHF451ipVto/kZ\u002BAFXsFXObuL1vlnru5u8pqcxWwAwrj2DGM\u002BwNTZwQqEP0kqs5X5lWaOc4EThw4kQ9IgfOtVusHbNdQtVEd4nhu8vDew2Z9o/5be6BdSXQk3p8pz1CRH0\u002B9d2rwzIdnPnBcJ/xk6Ukek5/nBG6kMlZZ81bwuPQYJJ8EXUoXBHyBTGewcxhnklUUxRP1DT7HH8J4VXtlOswBWZABNTLPfXzOwInYE/MT9Gzj/5zRa3ixnsjUguX1Zdit7Ib15vq9YDA48HZyAjmtXC3HCtVCe7FaBNvBXIy1X8lciT0zn8nYZnqWkRqLfxuPUIxXoOW2wHVdQLe8FvQf8MYtY8aY1n\u002BvH9AYgG3Rbv5\u002BM3Xx54s96dk05elmwL4jd1GMVwDF9MQtr5RhrjJHr/4WKLDFAz/SFeqaObr3qBeDjpnpCHaMqDHViu2KUYss1CDNeEYio9sR\u002B6L7gHpKy6YlX/rpUuLIO0cg3BaGRqMB\u002BXqeNp2JGlHbBs2qyeHmiz4qPYLaRm341he3fsXiPVezV\u002BP4Loez/z7XlzO2ChxPHIel1SW4MXWDWqSh9VRqF8/wEvByeZBAGqTkxJd5WXccJ0Pf0V1LqJdlWuYFcEHG5DYX5grEI3gbLfs8qy6uLJ7M5rNadb0aaTpN2BnYCX7RDz7B5204dEZf76e933hR/wFbZ9Ho9GiMCSw1uTAZH58bByyIORmEdoQgEU2QfQf7P\u002Bsf2KT/a2ydRbZsF9FNF3DZGjkDNaFWaVyL03Dpmm\u002BHj86ZbWzjbQD8BfQkxxdaIgF3AAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-11-14T08:07:02.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShuoMing.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Log in\\ShuoMing.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Log in\\ShuoMing.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Log in\\ShuoMing.cs",
+              "RelativeToolTip": "Assets\\Script\\Log in\\ShuoMing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPBSURBVEhL7VRNbBNXEJ798a6x4rUwsRNCUqTaB2REEUgVFVWlVVUJ9cKB4q24VeoBIQ5FcEAQVWoOvaWuOCSHgoTKCW1yqFREG4sEIyVyiQKoCikQ1mkcWybOgmNvnJ\u002B1vfs6s4QcUCu11yqftfu8u9/MvDff9x5s4/8PbnOE2dlZuSbXuqfyU/Lo81EwFg2oN\u002BogSRLEw3EazeEvh03ilqxSZKGyELn8y2XA0bydvG2FoqHua1PX5OvZ6zYoUDS\u002BMmzi8nQjUHKRiSnGmA4MdBBB50RO5zhO53le93G\u002B5CYV/K4/iVxdcAUdWpCk5AIIKdEVdfycYhXW85q5uYLpwrT6wnpx8v7Cfc2sm5G6XYeQPwSSKIHIi96FzL7TH50eoORpI518WHio3jHuwPLacmZPaM\u002BM\u002Bq6qPTWfRh4UH5g8xw8hfyj3dS6DkQAv6y/Vylrl7Pif49Amt8HBzoP2oe5DxWhb1OaQWbSKsNHcMANuQHF451ipVto/kZ\u002BAFXsFXObuL1vlnru5u8pqcxWwAwrj2DGM\u002BwNTZwQqEP0kqs5X5lWaOc4EThw4kQ9IgfOtVusHbNdQtVEd4nhu8vDew2Z9o/5be6BdSXQk3p8pz1CRH0\u002B9d2rwzIdnPnBcJ/xk6Ukek5/nBG6kMlZZ81bwuPQYJJ8EXUoXBHyBTGewcxhnklUUxRP1DT7HH8J4VXtlOswBWZABNTLPfXzOwInYE/MT9Gzj/5zRa3ixnsjUguX1Zdit7Ib15vq9YDA48HZyAjmtXC3HCtVCe7FaBNvBXIy1X8lciT0zn8nYZnqWkRqLfxuPUIxXoOW2wHVdQLe8FvQf8MYtY8aY1n\u002BvH9AYgG3Rbv5\u002BM3Xx54s96dk05elmwL4jd1GMVwDF9MQtr5RhrjJHr/4WKLDFAz/SFeqaObr3qBeDjpnpCHaMqDHViu2KUYss1CDNeEYio9sR\u002B6L7gHpKy6YlX/rpUuLIO0cg3BaGRqMB\u002BXqeNp2JGlHbBs2qyeHmiz4qPYLaRm341he3fsXiPVezV\u002BP4Loez/z7XlzO2ChxPHIel1SW4MXWDWqSh9VRqF8/wEvByeZBAGqTkxJd5WXccJ0Pf0V1LqJdlWuYFcEHG5DYX5grEI3gbLfs8qy6uLJ7M5rNadb0aaTpN2BnYCX7RDz7B5204dEZf76e933hR/wFbZ9Ho9GiMCSw1uTAZH58bByyIORmEdoQgEU2QfQf7P\u002Bsf2KT/a2ydRbZsF9FNF3DZGjkDNaFWaVyL03Dpmm\u002BHj86ZbWzjbQD8BfQkxxdaIgF3AAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-11-17T02:41:05.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CloseButton.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Log in\\CloseButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Log in\\CloseButton.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Log in\\CloseButton.cs",
+              "RelativeToolTip": "Assets\\Script\\Log in\\CloseButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPBSURBVEhL7VRNbBNXEJ798a6x4rUwsRNCUqTaB2REEUgVFVWlVVUJ9cKB4q24VeoBIQ5FcEAQVWoOvaWuOCSHgoTKCW1yqFREG4sEIyVyiQKoCikQ1mkcWybOgmNvnJ\u002B1vfs6s4QcUCu11yqftfu8u9/MvDff9x5s4/8PbnOE2dlZuSbXuqfyU/Lo81EwFg2oN\u002BogSRLEw3EazeEvh03ilqxSZKGyELn8y2XA0bydvG2FoqHua1PX5OvZ6zYoUDS\u002BMmzi8nQjUHKRiSnGmA4MdBBB50RO5zhO53le93G\u002B5CYV/K4/iVxdcAUdWpCk5AIIKdEVdfycYhXW85q5uYLpwrT6wnpx8v7Cfc2sm5G6XYeQPwSSKIHIi96FzL7TH50eoORpI518WHio3jHuwPLacmZPaM\u002BM\u002Bq6qPTWfRh4UH5g8xw8hfyj3dS6DkQAv6y/Vylrl7Pif49Amt8HBzoP2oe5DxWhb1OaQWbSKsNHcMANuQHF451ipVto/kZ\u002BAFXsFXObuL1vlnru5u8pqcxWwAwrj2DGM\u002BwNTZwQqEP0kqs5X5lWaOc4EThw4kQ9IgfOtVusHbNdQtVEd4nhu8vDew2Z9o/5be6BdSXQk3p8pz1CRH0\u002B9d2rwzIdnPnBcJ/xk6Ukek5/nBG6kMlZZ81bwuPQYJJ8EXUoXBHyBTGewcxhnklUUxRP1DT7HH8J4VXtlOswBWZABNTLPfXzOwInYE/MT9Gzj/5zRa3ixnsjUguX1Zdit7Ib15vq9YDA48HZyAjmtXC3HCtVCe7FaBNvBXIy1X8lciT0zn8nYZnqWkRqLfxuPUIxXoOW2wHVdQLe8FvQf8MYtY8aY1n\u002BvH9AYgG3Rbv5\u002BM3Xx54s96dk05elmwL4jd1GMVwDF9MQtr5RhrjJHr/4WKLDFAz/SFeqaObr3qBeDjpnpCHaMqDHViu2KUYss1CDNeEYio9sR\u002B6L7gHpKy6YlX/rpUuLIO0cg3BaGRqMB\u002BXqeNp2JGlHbBs2qyeHmiz4qPYLaRm341he3fsXiPVezV\u002BP4Loez/z7XlzO2ChxPHIel1SW4MXWDWqSh9VRqF8/wEvByeZBAGqTkxJd5WXccJ0Pf0V1LqJdlWuYFcEHG5DYX5grEI3gbLfs8qy6uLJ7M5rNadb0aaTpN2BnYCX7RDz7B5204dEZf76e933hR/wFbZ9Ho9GiMCSw1uTAZH58bByyIORmEdoQgEU2QfQf7P\u002Bsf2KT/a2ydRbZsF9FNF3DZGjkDNaFWaVyL03Dpmm\u002BHj86ZbWzjbQD8BfQkxxdaIgF3AAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-11-17T02:41:08.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IdName.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\IdName.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\IdName.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\IdName.cs",
+              "RelativeToolTip": "Assets\\Script\\IdName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPBSURBVEhL7VRNbBNXEJ798a6x4rUwsRNCUqTaB2REEUgVFVWlVVUJ9cKB4q24VeoBIQ5FcEAQVWoOvaWuOCSHgoTKCW1yqFREG4sEIyVyiQKoCikQ1mkcWybOgmNvnJ\u002B1vfs6s4QcUCu11yqftfu8u9/MvDff9x5s4/8PbnOE2dlZuSbXuqfyU/Lo81EwFg2oN\u002BogSRLEw3EazeEvh03ilqxSZKGyELn8y2XA0bydvG2FoqHua1PX5OvZ6zYoUDS\u002BMmzi8nQjUHKRiSnGmA4MdBBB50RO5zhO53le93G\u002B5CYV/K4/iVxdcAUdWpCk5AIIKdEVdfycYhXW85q5uYLpwrT6wnpx8v7Cfc2sm5G6XYeQPwSSKIHIi96FzL7TH50eoORpI518WHio3jHuwPLacmZPaM\u002BM\u002Bq6qPTWfRh4UH5g8xw8hfyj3dS6DkQAv6y/Vylrl7Pif49Amt8HBzoP2oe5DxWhb1OaQWbSKsNHcMANuQHF451ipVto/kZ\u002BAFXsFXObuL1vlnru5u8pqcxWwAwrj2DGM\u002BwNTZwQqEP0kqs5X5lWaOc4EThw4kQ9IgfOtVusHbNdQtVEd4nhu8vDew2Z9o/5be6BdSXQk3p8pz1CRH0\u002B9d2rwzIdnPnBcJ/xk6Ukek5/nBG6kMlZZ81bwuPQYJJ8EXUoXBHyBTGewcxhnklUUxRP1DT7HH8J4VXtlOswBWZABNTLPfXzOwInYE/MT9Gzj/5zRa3ixnsjUguX1Zdit7Ib15vq9YDA48HZyAjmtXC3HCtVCe7FaBNvBXIy1X8lciT0zn8nYZnqWkRqLfxuPUIxXoOW2wHVdQLe8FvQf8MYtY8aY1n\u002BvH9AYgG3Rbv5\u002BM3Xx54s96dk05elmwL4jd1GMVwDF9MQtr5RhrjJHr/4WKLDFAz/SFeqaObr3qBeDjpnpCHaMqDHViu2KUYss1CDNeEYio9sR\u002B6L7gHpKy6YlX/rpUuLIO0cg3BaGRqMB\u002BXqeNp2JGlHbBs2qyeHmiz4qPYLaRm341he3fsXiPVezV\u002BP4Loez/z7XlzO2ChxPHIel1SW4MXWDWqSh9VRqF8/wEvByeZBAGqTkxJd5WXccJ0Pf0V1LqJdlWuYFcEHG5DYX5grEI3gbLfs8qy6uLJ7M5rNadb0aaTpN2BnYCX7RDz7B5204dEZf76e933hR/wFbZ9Ho9GiMCSw1uTAZH58bByyIORmEdoQgEU2QfQf7P\u002Bsf2KT/a2ydRbZsF9FNF3DZGjkDNaFWaVyL03Dpmm\u002BHj86ZbWzjbQD8BfQkxxdaIgF3AAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-11-12T11:24:52.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NameCollect.cs",
+              "DocumentMoniker": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Log in\\NameCollect.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Log in\\NameCollect.cs",
+              "ToolTip": "E:\\unity project\\\u529F\u80FD\u6E38\u620F\\Assets\\Script\\Log in\\NameCollect.cs",
+              "RelativeToolTip": "Assets\\Script\\Log in\\NameCollect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPBSURBVEhL7VRNbBNXEJ798a6x4rUwsRNCUqTaB2REEUgVFVWlVVUJ9cKB4q24VeoBIQ5FcEAQVWoOvaWuOCSHgoTKCW1yqFREG4sEIyVyiQKoCikQ1mkcWybOgmNvnJ\u002B1vfs6s4QcUCu11yqftfu8u9/MvDff9x5s4/8PbnOE2dlZuSbXuqfyU/Lo81EwFg2oN\u002BogSRLEw3EazeEvh03ilqxSZKGyELn8y2XA0bydvG2FoqHua1PX5OvZ6zYoUDS\u002BMmzi8nQjUHKRiSnGmA4MdBBB50RO5zhO53le93G\u002B5CYV/K4/iVxdcAUdWpCk5AIIKdEVdfycYhXW85q5uYLpwrT6wnpx8v7Cfc2sm5G6XYeQPwSSKIHIi96FzL7TH50eoORpI518WHio3jHuwPLacmZPaM\u002BM\u002Bq6qPTWfRh4UH5g8xw8hfyj3dS6DkQAv6y/Vylrl7Pif49Amt8HBzoP2oe5DxWhb1OaQWbSKsNHcMANuQHF451ipVto/kZ\u002BAFXsFXObuL1vlnru5u8pqcxWwAwrj2DGM\u002BwNTZwQqEP0kqs5X5lWaOc4EThw4kQ9IgfOtVusHbNdQtVEd4nhu8vDew2Z9o/5be6BdSXQk3p8pz1CRH0\u002B9d2rwzIdnPnBcJ/xk6Ukek5/nBG6kMlZZ81bwuPQYJJ8EXUoXBHyBTGewcxhnklUUxRP1DT7HH8J4VXtlOswBWZABNTLPfXzOwInYE/MT9Gzj/5zRa3ixnsjUguX1Zdit7Ib15vq9YDA48HZyAjmtXC3HCtVCe7FaBNvBXIy1X8lciT0zn8nYZnqWkRqLfxuPUIxXoOW2wHVdQLe8FvQf8MYtY8aY1n\u002BvH9AYgG3Rbv5\u002BM3Xx54s96dk05elmwL4jd1GMVwDF9MQtr5RhrjJHr/4WKLDFAz/SFeqaObr3qBeDjpnpCHaMqDHViu2KUYss1CDNeEYio9sR\u002B6L7gHpKy6YlX/rpUuLIO0cg3BaGRqMB\u002BXqeNp2JGlHbBs2qyeHmiz4qPYLaRm341he3fsXiPVezV\u002BP4Loez/z7XlzO2ChxPHIel1SW4MXWDWqSh9VRqF8/wEvByeZBAGqTkxJd5WXccJ0Pf0V1LqJdlWuYFcEHG5DYX5grEI3gbLfs8qy6uLJ7M5rNadb0aaTpN2BnYCX7RDz7B5204dEZf76e933hR/wFbZ9Ho9GiMCSw1uTAZH58bByyIORmEdoQgEU2QfQf7P\u002Bsf2KT/a2ydRbZsF9FNF3DZGjkDNaFWaVyL03Dpmm\u002BHj86ZbWzjbQD8BfQkxxdaIgF3AAAAAElFTkSuQmCC",
+              "WhenOpened": "2023-11-12T11:24:52.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
